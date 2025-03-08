@@ -4,7 +4,7 @@
 
 - 💼 I’m currently working at [Group Shibata](https://gruposhibata.gupy.io)
 
-- 🔥 Developer **in progress**
+- </> Fullstack **Developer**
 
 - ⚡ Fun fact i'm a little color blind 
 
